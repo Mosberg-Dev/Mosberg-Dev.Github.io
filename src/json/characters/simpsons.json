@@ -1,0 +1,110 @@
+{
+  "$schema": "https://Mosberg-Dev.Github.io/src/json/schema/character-schema.json",
+  "characters": [
+    {
+      "id": "homer",
+      "name": "Homer Simpson",
+      "tagline": "D'oh! The lovable, donut-obsessed patriarch of the Simpson family.",
+      "description": "Safety Inspector at Springfield Nuclear Power Plant, Sector 7G. Husband to Marge. Father to Bart, Lisa, and Maggie.",
+      "avatar": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png",
+        "alt": "Homer Simpson avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Homer_Simpson"
+      },
+      "show": "The Simpsons",
+      "category": "simpsons",
+      "meta": {
+        "role": "father",
+        "occupation": "Safety Inspector",
+        "location": "Springfield",
+        "traits": ["lazy", "gluttonous", "lovable"]
+      }
+    },
+    {
+      "id": "marge",
+      "name": "Marge Simpson",
+      "tagline": "The blue-haired matriarch who keeps the family grounded.",
+      "description": "Homemaker and moral compass of the Simpson family. Known for her patience and towering blue hair.",
+      "avatar": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png",
+        "alt": "Marge Simpson avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Marge_Simpson"
+      },
+      "show": "The Simpsons",
+      "category": "simpsons",
+      "meta": {
+        "role": "mother",
+        "occupation": "Homemaker",
+        "location": "Springfield",
+        "traits": ["patient", "moral", "nurturing"]
+      }
+    },
+    {
+      "id": "bart",
+      "name": "Bart Simpson",
+      "tagline": "Eat my shorts!",
+      "description": "Mischievous 10-year-old with a slingshot and a rebellious streak. Loves skateboarding and pranking.",
+      "avatar": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Bart_Simpson_200px.png/170px-Bart_Simpson_200px.png",
+        "alt": "Bart Simpson avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Bart_Simpson"
+      },
+      "show": "The Simpsons",
+      "category": "simpsons",
+      "meta": {
+        "role": "son",
+        "occupation": "Student",
+        "location": "Springfield",
+        "traits": ["rebellious", "funny", "mischievous"]
+      }
+    },
+    {
+      "id": "lisa",
+      "name": "Lisa Simpson",
+      "tagline": "The brainy, saxophone-playing voice of reason.",
+      "description": "8-year-old prodigy with a passion for learning, jazz, and social justice.",
+      "avatar": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png",
+        "alt": "Lisa Simpson avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Lisa_Simpson"
+      },
+      "show": "The Simpsons",
+      "category": "simpsons",
+      "meta": {
+        "role": "daughter",
+        "occupation": "Student",
+        "location": "Springfield",
+        "traits": ["intelligent", "compassionate", "musical"]
+      }
+    },
+    {
+      "id": "maggie",
+      "name": "Maggie Simpson",
+      "tagline": "Silent but surprisingly resourceful.",
+      "description": "The pacifier-sucking baby of the family. Often underestimated, but full of surprises.",
+      "avatar": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/9/9d/Maggie_Simpson.png",
+        "alt": "Maggie Simpson avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Maggie_Simpson"
+      },
+      "show": "The Simpsons",
+      "category": "simpsons",
+      "meta": {
+        "role": "baby",
+        "occupation": "Infant",
+        "location": "Springfield",
+        "traits": ["quiet", "clever", "cute"]
+      }
+    }
+  ]
+}
