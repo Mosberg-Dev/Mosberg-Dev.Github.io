@@ -1,0 +1,92 @@
+{
+  "$schema": "https://Mosberg-Dev.Github.io/src/json/schema/character-schema.json",
+  "title": "Character Schema",
+  "type": "object",
+  "properties": {
+    "characters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "tagline",
+          "description",
+          "avatar",
+          "links",
+          "category"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9_-]+$",
+            "description": "Unique identifier for the character (e.g., 'homer')"
+          },
+          "name": {
+            "type": "string",
+            "description": "Full display name of the character"
+          },
+          "tagline": {
+            "type": "string",
+            "description": "Short, catchy tagline or quote"
+          },
+          "description": {
+            "type": "string",
+            "description": "Detailed character bio or summary"
+          },
+          "avatar": {
+            "type": "object",
+            "required": ["url"],
+            "properties": {
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "description": "URL to the character's avatar image"
+              },
+              "alt": {
+                "type": "string",
+                "description": "Alternative text for accessibility"
+              }
+            }
+          },
+          "links": {
+            "type": "object",
+            "properties": {
+              "wiki": {
+                "type": "string",
+                "format": "uri",
+                "description": "Link to a wiki or reference page"
+              },
+              "official": {
+                "type": "string",
+                "format": "uri",
+                "description": "Optional link to an official site"
+              }
+            },
+            "additionalProperties": false
+          },
+          "category": {
+            "type": "string",
+            "description": "Franchise or group this character belongs to (e.g., 'simpsons')"
+          },
+          "meta": {
+            "type": "object",
+            "properties": {
+              "role": { "type": "string" },
+              "occupation": { "type": "string" },
+              "location": { "type": "string" },
+              "traits": {
+                "type": "array",
+                "items": { "type": "string" }
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["characters"],
+  "additionalProperties": false
+}
