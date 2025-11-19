@@ -1,5 +1,5 @@
 {
-  "$schema": "https://Mosberg-Dev.Github.io/src/json/schema/character-schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Character Schema",
   "type": "object",
   "properties": {
@@ -14,13 +14,14 @@
           "description",
           "avatar",
           "links",
+          "show",
           "category"
         ],
         "properties": {
           "id": {
             "type": "string",
             "pattern": "^[a-z0-9_-]+$",
-            "description": "Unique identifier for the character (e.g., 'homer')"
+            "description": "Unique identifier for the character"
           },
           "name": {
             "type": "string",
@@ -65,9 +66,13 @@
             },
             "additionalProperties": false
           },
+          "show": {
+            "type": "string",
+            "description": "Name of the show or franchise the character belongs to"
+          },
           "category": {
             "type": "string",
-            "description": "Franchise or group this character belongs to (e.g., 'simpsons')"
+            "description": "Franchise or group this character belongs to"
           },
           "meta": {
             "type": "object",
