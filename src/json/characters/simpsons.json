@@ -7,7 +7,7 @@
       "tagline": "D'oh! The lovable, donut-obsessed patriarch of the Simpson family.",
       "description": "Safety Inspector at Springfield Nuclear Power Plant. Husband to Marge. Father to Bart, Lisa, and Maggie.",
       "avatar": {
-        "url": "https://static.wikia.nocookie.net/simpsons/images/b/bd/Homer_Simpson.png",
+        "url": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png",
         "alt": "Homer Simpson avatar"
       },
       "links": {
@@ -28,7 +28,7 @@
       "tagline": "The blue-haired matriarch who keeps the family grounded.",
       "description": "Homemaker and moral compass of the Simpson family. Known for her patience and towering blue hair.",
       "avatar": {
-        "url": "https://static.wikia.nocookie.net/simpsons/images/0/0b/Marge_Simpson.png",
+        "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png",
         "alt": "Marge Simpson avatar"
       },
       "links": {
@@ -49,7 +49,7 @@
       "tagline": "Eat my shorts!",
       "description": "Mischievous 10-year-old with a slingshot and a rebellious streak. Loves skateboarding and pranking.",
       "avatar": {
-        "url": "https://static.wikia.nocookie.net/simpsons/images/a/aa/Bart_Simpson.png",
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Bart_Simpson_200px.png/170px-Bart_Simpson_200px.png",
         "alt": "Bart Simpson avatar"
       },
       "links": {
@@ -70,7 +70,7 @@
       "tagline": "The brainy, saxophone-playing voice of reason.",
       "description": "8-year-old prodigy with a passion for learning, jazz, and social justice.",
       "avatar": {
-        "url": "https://static.wikia.nocookie.net/simpsons/images/6/6f/Lisa_Simpson.png",
+        "url": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png",
         "alt": "Lisa Simpson avatar"
       },
       "links": {
@@ -112,7 +112,7 @@
       "tagline": "The grumpy bartender with a soft side.",
       "description": "Owner of Moe’s Tavern. Gruff exterior hides a lonely and occasionally tender heart.",
       "avatar": {
-        "url": "https://static.wikia.nocookie.net/simpsons/images/6/65/Moe_Szyslak.png",
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/80/Moe_Szyslak.png",
         "alt": "Moe Szyslak avatar"
       },
       "links": {
@@ -133,7 +133,7 @@
       "tagline": "Thank you, come again!",
       "description": "Owner of the Kwik-E-Mart. Known for his work ethic, catchphrases, and large family.",
       "avatar": {
-        "url": "https://static.wikia.nocookie.net/simpsons/images/9/9b/Apu_Nahasapeemapetilon.png",
+        "url": "https://upload.wikimedia.org/wikipedia/en/2/23/Apu_Nahasapeemapetilon_%28The_Simpsons%29.png",
         "alt": "Apu avatar"
       },
       "links": {
@@ -154,7 +154,7 @@
       "tagline": "Bart’s best friend and eternal sidekick.",
       "description": "Nerdy, awkward, and hopelessly in love with Lisa. Loyal to Bart despite constant humiliation.",
       "avatar": {
-        "url": "https://static.wikia.nocookie.net/simpsons/images/1/11/Milhouse_Van_Houten.png",
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Milhouse_Van_Houten.png/250px-Milhouse_Van_Houten.png",
         "alt": "Milhouse avatar"
       },
       "links": {
@@ -175,7 +175,7 @@
       "tagline": "The jaded clown who still makes kids laugh.",
       "description": "TV clown and celebrity. Cynical off-camera, but beloved by Springfield’s children.",
       "avatar": {
-        "url": "https://static.wikia.nocookie.net/simpsons/images/5/5a/Krusty_the_Clown.png",
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Krustytheclown.png/250px-Krustytheclown.png",
         "alt": "Krusty avatar"
       },
       "links": {
