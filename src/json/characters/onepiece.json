@@ -1,0 +1,194 @@
+{
+  "$schema": "https://Mosberg-Dev.Github.io/src/json/schema/character-schema.json",
+  "characters": [
+    {
+      "id": "luffy",
+      "name": "Monkey D. Luffy",
+      "tagline": "I'm gonna be King of the Pirates!",
+      "description": "Rubber-powered captain of the Straw Hat Pirates with an unbreakable will and boundless appetite.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/onepiece/images/5/5a/Monkey_D._Luffy.png",
+        "alt": "Luffy avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Monkey_D._Luffy"
+      },
+      "show": "One Piece",
+      "category": "onepiece",
+      "meta": {
+        "role": "captain",
+        "occupation": "Pirate",
+        "location": "Thousand Sunny",
+        "traits": ["brave", "optimistic", "reckless"]
+      }
+    },
+    {
+      "id": "zoro",
+      "name": "Roronoa Zoro",
+      "tagline": "Three swords. One goal: become the best.",
+      "description": "Stoic swordsman and Luffy’s first mate. Known for his sense of direction—or lack thereof.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Roronoa_Zoro.png",
+        "alt": "Zoro avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Roronoa_Zoro"
+      },
+      "show": "One Piece",
+      "category": "onepiece",
+      "meta": {
+        "role": "first mate",
+        "occupation": "Swordsman",
+        "location": "Thousand Sunny",
+        "traits": ["disciplined", "loyal", "fearless"]
+      }
+    },
+    {
+      "id": "nami",
+      "name": "Nami",
+      "tagline": "Navigator with a nose for treasure.",
+      "description": "Clever and resourceful navigator of the Straw Hat crew. Former thief with a heart of gold.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/onepiece/images/3/3e/Nami.png",
+        "alt": "Nami avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Nami_(One_Piece)"
+      },
+      "show": "One Piece",
+      "category": "onepiece",
+      "meta": {
+        "role": "navigator",
+        "occupation": "Pirate",
+        "location": "Thousand Sunny",
+        "traits": ["intelligent", "cunning", "ambitious"]
+      }
+    },
+    {
+      "id": "usopp",
+      "name": "Usopp",
+      "tagline": "The sniper with a big imagination.",
+      "description": "A brave (and sometimes cowardly) sniper who dreams of becoming a great warrior of the sea.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Usopp.png",
+        "alt": "Usopp avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Usopp"
+      },
+      "show": "One Piece",
+      "category": "onepiece",
+      "meta": {
+        "role": "sniper",
+        "occupation": "Pirate",
+        "location": "Thousand Sunny",
+        "traits": ["creative", "loyal", "funny"]
+      }
+    },
+    {
+      "id": "sanji",
+      "name": "Sanji",
+      "tagline": "Kicks hard. Cooks harder.",
+      "description": "The Straw Hat cook with a chivalrous heart and deadly legs. Loves women and fine cuisine.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/onepiece/images/5/5e/Sanji.png",
+        "alt": "Sanji avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Sanji_(One_Piece)"
+      },
+      "show": "One Piece",
+      "category": "onepiece",
+      "meta": {
+        "role": "cook",
+        "occupation": "Pirate",
+        "location": "Thousand Sunny",
+        "traits": ["chivalrous", "fiery", "refined"]
+      }
+    },
+    {
+      "id": "chopper",
+      "name": "Tony Tony Chopper",
+      "tagline": "The reindeer doctor with a human heart.",
+      "description": "A blue-nosed reindeer who ate the Human-Human Fruit. Serves as the Straw Hat crew’s doctor.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Tony_Tony_Chopper.png",
+        "alt": "Chopper avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Tony_Tony_Chopper"
+      },
+      "show": "One Piece",
+      "category": "onepiece",
+      "meta": {
+        "role": "doctor",
+        "occupation": "Pirate",
+        "location": "Thousand Sunny",
+        "traits": ["adorable", "brilliant", "shy"]
+      }
+    },
+    {
+      "id": "robin",
+      "name": "Nico Robin",
+      "tagline": "The archaeologist who reads the void.",
+      "description": "A calm and intelligent historian with the power to sprout limbs. Seeks the true history of the world.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Nico_Robin.png",
+        "alt": "Nico Robin avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Nico_Robin"
+      },
+      "show": "One Piece",
+      "category": "onepiece",
+      "meta": {
+        "role": "archaeologist",
+        "occupation": "Pirate",
+        "location": "Thousand Sunny",
+        "traits": ["intellectual", "mysterious", "stoic"]
+      }
+    },
+    {
+      "id": "franky",
+      "name": "Franky",
+      "tagline": "Super cyborg shipwright!",
+      "description": "A cola-powered cyborg who built the Thousand Sunny. Loud, proud, and full of flair.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Franky.png",
+        "alt": "Franky avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Franky_(One_Piece)"
+      },
+      "show": "One Piece",
+      "category": "onepiece",
+      "meta": {
+        "role": "shipwright",
+        "occupation": "Pirate",
+        "location": "Thousand Sunny",
+        "traits": ["flashy", "loyal", "mechanical"]
+      }
+    },
+    {
+      "id": "brook",
+      "name": "Brook",
+      "tagline": "Yohohoho! The undead musician.",
+      "description": "A living skeleton brought back by the Revive-Revive Fruit. Plays violin and slashes with soul.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/onepiece/images/3/3e/Brook.png",
+        "alt": "Brook avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Brook_(One_Piece)"
+      },
+      "show": "One Piece",
+      "category": "onepiece",
+      "meta": {
+        "role": "musician",
+        "occupation": "Pirate",
+        "location": "Thousand Sunny",
+        "traits": ["musical", "eccentric", "undead"]
+      }
+    }
+  ]
+}

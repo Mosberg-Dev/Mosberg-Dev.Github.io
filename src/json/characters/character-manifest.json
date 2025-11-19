@@ -1,0 +1,33 @@
+{
+  "$schema": "https://Mosberg-Dev.Github.io/src/json/schema/character-manifest.json",
+  "sources": [
+    {
+      "id": "simpsons",
+      "label": "The Simpsons",
+      "url": "https://Mosberg-Dev.Github.io/src/json/characters/simpsons.json",
+      "category": "simpsons",
+      "theme": "#ffcc00"
+    },
+    {
+      "id": "futurama",
+      "label": "Futurama",
+      "url": "https://Mosberg-Dev.Github.io/src/json/characters/futurama.json",
+      "category": "futurama",
+      "theme": "#00bcd4"
+    },
+    {
+      "id": "southpark",
+      "label": "South Park",
+      "url": "https://Mosberg-Dev.Github.io/src/json/characters/southpark.json",
+      "category": "southpark",
+      "theme": "#4caf50"
+    },
+    {
+      "id": "onepiece",
+      "label": "One Piece",
+      "url": "https://Mosberg-Dev.Github.io/src/json/characters/onepiece.json",
+      "category": "onepiece",
+      "theme": "#f44336"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "$schema": "https://Mosberg-Dev.Github.io/src/json/schema/character-schema.json",
+  "characters": [
+    {
+      "id": "stan",
+      "name": "Stan Marsh",
+      "tagline": "The grounded everyman of South Park.",
+      "description": "Level-headed and moral, Stan often serves as the voice of reason among his friends.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/southpark/images/6/6f/Stan_Marsh.png",
+        "alt": "Stan Marsh avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Stan_Marsh"
+      },
+      "show": "South Park",
+      "category": "southpark",
+      "meta": {
+        "role": "main kid",
+        "occupation": "Student",
+        "location": "South Park, Colorado",
+        "traits": ["rational", "empathetic", "loyal"]
+      }
+    },
+    {
+      "id": "cartman",
+      "name": "Eric Cartman",
+      "tagline": "Respect his authoritah!",
+      "description": "Manipulative, loud, and often offensive, Cartman is both hilarious and horrifying.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/southpark/images/7/7e/Eric_Cartman.png",
+        "alt": "Eric Cartman avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Eric_Cartman"
+      },
+      "show": "South Park",
+      "category": "southpark",
+      "meta": {
+        "role": "main kid",
+        "occupation": "Student",
+        "location": "South Park, Colorado",
+        "traits": ["manipulative", "bold", "controversial"]
+      }
+    },
+    {
+      "id": "kenny",
+      "name": "Kenny McCormick",
+      "tagline": "Muffled voice. Frequent deaths. Iconic hoodie.",
+      "description": "The poor kid with a mysterious voice and a knack for dying in nearly every episode.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/southpark/images/2/25/Kenny_McCormick.png",
+        "alt": "Kenny McCormick avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Kenny_McCormick"
+      },
+      "show": "South Park",
+      "category": "southpark",
+      "meta": {
+        "role": "main kid",
+        "occupation": "Student",
+        "location": "South Park, Colorado",
+        "traits": ["quiet", "resilient", "enigmatic"]
+      }
+    },
+    {
+      "id": "kyle",
+      "name": "Kyle Broflovski",
+      "tagline": "Smart, principled, and often frustrated by Cartman.",
+      "description": "Kyle is the intellectual and moral center of the group, often clashing with Cartman.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/southpark/images/8/89/Kyle_Broflovski.png",
+        "alt": "Kyle Broflovski avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Kyle_Broflovski"
+      },
+      "show": "South Park",
+      "category": "southpark",
+      "meta": {
+        "role": "main kid",
+        "occupation": "Student",
+        "location": "South Park, Colorado",
+        "traits": ["intelligent", "ethical", "outspoken"]
+      }
+    },
+    {
+      "id": "butters",
+      "name": "Butters Stotch",
+      "tagline": "Sweet, gullible, and always in trouble.",
+      "description": "Butters is innocent and trusting, often manipulated by others—especially Cartman.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/southpark/images/2/2f/Butters_Stotch.png",
+        "alt": "Butters Stotch avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Butters_Stotch"
+      },
+      "show": "South Park",
+      "category": "southpark",
+      "meta": {
+        "role": "supporting kid",
+        "occupation": "Student",
+        "location": "South Park, Colorado",
+        "traits": ["naive", "cheerful", "obedient"]
+      }
+    },
+    {
+      "id": "randy",
+      "name": "Randy Marsh",
+      "tagline": "Geologist. Father. Absurdist icon.",
+      "description": "Stan’s dad and one of the most unpredictable adults in South Park.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/southpark/images/4/4f/Randy_Marsh.png",
+        "alt": "Randy Marsh avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Randy_Marsh_(South_Park)"
+      },
+      "show": "South Park",
+      "category": "southpark",
+      "meta": {
+        "role": "father",
+        "occupation": "Geologist",
+        "location": "South Park, Colorado",
+        "traits": ["impulsive", "eccentric", "dramatic"]
+      }
+    },
+    {
+      "id": "wendy",
+      "name": "Wendy Testaburger",
+      "tagline": "Smart, assertive, and socially conscious.",
+      "description": "Stan’s on-and-off girlfriend and one of the most outspoken girls in school.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/southpark/images/3/3e/Wendy_Testaburger.png",
+        "alt": "Wendy Testaburger avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Wendy_Testaburger"
+      },
+      "show": "South Park",
+      "category": "southpark",
+      "meta": {
+        "role": "student",
+        "occupation": "Student",
+        "location": "South Park Elementary",
+        "traits": ["intelligent", "confident", "activist"]
+      }
+    },
+    {
+      "id": "garrison",
+      "name": "Mr. Garrison",
+      "tagline": "Teacher, politician, and master of reinvention.",
+      "description": "Mr. Garrison has undergone numerous transformations, reflecting the show’s satirical edge.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/southpark/images/9/9e/Mr._Garrison.png",
+        "alt": "Mr. Garrison avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Mr._Garrison"
+      },
+      "show": "South Park",
+      "category": "southpark",
+      "meta": {
+        "role": "teacher",
+        "occupation": "Educator",
+        "location": "South Park Elementary",
+        "traits": ["eccentric", "controversial", "transformative"]
+      }
+    },
+    {
+      "id": "towelie",
+      "name": "Towelie",
+      "tagline": "Don’t forget to bring a towel!",
+      "description": "A sentient towel with a drug problem and a surprisingly deep backstory.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/southpark/images/6/6e/Towelie.png",
+        "alt": "Towelie avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Towelie"
+      },
+      "show": "South Park",
+      "category": "southpark",
+      "meta": {
+        "role": "mascot",
+        "occupation": "Towel",
+        "location": "South Park",
+        "traits": ["stoner", "friendly", "absurd"]
+      }
+    }
+  ]
+}

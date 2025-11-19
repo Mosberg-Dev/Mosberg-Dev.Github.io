@@ -1,0 +1,194 @@
+{
+  "$schema": "https://Mosberg-Dev.Github.io/src/json/schema/character-schema.json",
+  "characters": [
+    {
+      "id": "fry",
+      "name": "Philip J. Fry",
+      "tagline": "A 20th-century slacker in the 31st century.",
+      "description": "Former pizza delivery boy accidentally frozen for 1000 years. Now a delivery boy for Planet Express.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/en.futurama/images/2/28/Philip_Fry.png",
+        "alt": "Philip J. Fry avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Philip_J._Fry"
+      },
+      "show": "Futurama",
+      "category": "futurama",
+      "meta": {
+        "role": "delivery boy",
+        "occupation": "Planet Express crew",
+        "location": "New New York",
+        "traits": ["naive", "loyal", "impulsive"]
+      }
+    },
+    {
+      "id": "leela",
+      "name": "Turanga Leela",
+      "tagline": "One eye. One mission. One badass captain.",
+      "description": "Strong-willed mutant and captain of the Planet Express ship. Often the voice of reason.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/en.futurama/images/0/0f/Turanga_Leela.png",
+        "alt": "Turanga Leela avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Leela_(Futurama)"
+      },
+      "show": "Futurama",
+      "category": "futurama",
+      "meta": {
+        "role": "captain",
+        "occupation": "Pilot",
+        "location": "New New York",
+        "traits": ["brave", "disciplined", "compassionate"]
+      }
+    },
+    {
+      "id": "bender",
+      "name": "Bender Bending Rodríguez",
+      "tagline": "Bite my shiny metal...",
+      "description": "A foul-mouthed, beer-fueled bending robot with a flair for crime and sarcasm.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/en.futurama/images/7/73/Bender_Rodriguez.png",
+        "alt": "Bender avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Bender_(Futurama)"
+      },
+      "show": "Futurama",
+      "category": "futurama",
+      "meta": {
+        "role": "crew member",
+        "occupation": "Bender",
+        "location": "New New York",
+        "traits": ["sarcastic", "reckless", "funny"]
+      }
+    },
+    {
+      "id": "zoidberg",
+      "name": "Dr. John Zoidberg",
+      "tagline": "Why not Zoidberg?",
+      "description": "Alien crustacean doctor with questionable medical skills and a heart of gold.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/en.futurama/images/6/6d/Dr._Zoidberg.png",
+        "alt": "Zoidberg avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Dr._Zoidberg"
+      },
+      "show": "Futurama",
+      "category": "futurama",
+      "meta": {
+        "role": "doctor",
+        "occupation": "Staff Physician",
+        "location": "New New York",
+        "traits": ["awkward", "lonely", "enthusiastic"]
+      }
+    },
+    {
+      "id": "amy",
+      "name": "Amy Wong",
+      "tagline": "Rich, clumsy, and full of heart.",
+      "description": "Intern at Planet Express and engineering student from Mars. Known for her bubbly personality.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/en.futurama/images/3/3f/Amy_Wong.png",
+        "alt": "Amy Wong avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Amy_Wong"
+      },
+      "show": "Futurama",
+      "category": "futurama",
+      "meta": {
+        "role": "intern",
+        "occupation": "Engineering Student",
+        "location": "Mars / New New York",
+        "traits": ["clumsy", "cheerful", "wealthy"]
+      }
+    },
+    {
+      "id": "hermes",
+      "name": "Hermes Conrad",
+      "tagline": "Bureaucrat. Limbo champion. Spreadsheet wizard.",
+      "description": "Jamaican bureaucrat and accountant at Planet Express. Obsessed with order and efficiency.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/en.futurama/images/4/4f/Hermes_Conrad.png",
+        "alt": "Hermes Conrad avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Hermes_Conrad"
+      },
+      "show": "Futurama",
+      "category": "futurama",
+      "meta": {
+        "role": "bureaucrat",
+        "occupation": "Accountant",
+        "location": "New New York",
+        "traits": ["organized", "strict", "limber"]
+      }
+    },
+    {
+      "id": "farnsworth",
+      "name": "Professor Hubert J. Farnsworth",
+      "tagline": "Good news, everyone!",
+      "description": "Mad scientist and founder of Planet Express. Inventor of many dangerous gadgets.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/en.futurama/images/6/6f/Professor_Farnsworth.png",
+        "alt": "Professor Farnsworth avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Professor_Farnsworth"
+      },
+      "show": "Futurama",
+      "category": "futurama",
+      "meta": {
+        "role": "founder",
+        "occupation": "Scientist",
+        "location": "New New York",
+        "traits": ["eccentric", "brilliant", "forgetful"]
+      }
+    },
+    {
+      "id": "zapp",
+      "name": "Zapp Brannigan",
+      "tagline": "The man with no plan.",
+      "description": "Egotistical and incompetent space captain with a crush on Leela.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/en.futurama/images/5/5e/Zapp_Brannigan.png",
+        "alt": "Zapp Brannigan avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Zapp_Brannigan"
+      },
+      "show": "Futurama",
+      "category": "futurama",
+      "meta": {
+        "role": "captain",
+        "occupation": "DOOP Officer",
+        "location": "Nimbus",
+        "traits": ["arrogant", "clueless", "flirtatious"]
+      }
+    },
+    {
+      "id": "kif",
+      "name": "Kif Kroker",
+      "tagline": "Soft-spoken, green-skinned, and perpetually exasperated.",
+      "description": "Zapp Brannigan’s long-suffering assistant and Amy Wong’s love interest.",
+      "avatar": {
+        "url": "https://static.wikia.nocookie.net/en.futurama/images/4/4a/Kif_Kroker.png",
+        "alt": "Kif Kroker avatar"
+      },
+      "links": {
+        "wiki": "https://en.wikipedia.org/wiki/Kif_Kroker"
+      },
+      "show": "Futurama",
+      "category": "futurama",
+      "meta": {
+        "role": "lieutenant",
+        "occupation": "DOOP Officer",
+        "location": "Nimbus",
+        "traits": ["timid", "romantic", "dutiful"]
+      }
+    }
+  ]
+}
